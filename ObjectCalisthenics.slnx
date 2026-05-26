@@ -1,0 +1,24 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Rule01.OneIndentationLevel/Rule01.OneIndentationLevel.csproj" />
+    <Project Path="src/Rule02.NoElse/Rule02.NoElse.csproj" />
+    <Project Path="src/Rule03.WrapPrimitives/Rule03.WrapPrimitives.csproj" />
+    <Project Path="src/Rule04.FirstClassCollections/Rule04.FirstClassCollections.csproj" />
+    <Project Path="src/Rule05.OneDotPerLine/Rule05.OneDotPerLine.csproj" />
+    <Project Path="src/Rule06.DontAbbreviate/Rule06.DontAbbreviate.csproj" />
+    <Project Path="src/Rule07.SmallEntities/Rule07.SmallEntities.csproj" />
+    <Project Path="src/Rule08.MaxTwoInstanceVariables/Rule08.MaxTwoInstanceVariables.csproj" />
+    <Project Path="src/Rule09.NoGettersSetters/Rule09.NoGettersSetters.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Rule01.Tests/Rule01.Tests.csproj" />
+    <Project Path="tests/Rule02.Tests/Rule02.Tests.csproj" />
+    <Project Path="tests/Rule03.Tests/Rule03.Tests.csproj" />
+    <Project Path="tests/Rule04.Tests/Rule04.Tests.csproj" />
+    <Project Path="tests/Rule05.Tests/Rule05.Tests.csproj" />
+    <Project Path="tests/Rule06.Tests/Rule06.Tests.csproj" />
+    <Project Path="tests/Rule07.Tests/Rule07.Tests.csproj" />
+    <Project Path="tests/Rule08.Tests/Rule08.Tests.csproj" />
+    <Project Path="tests/Rule09.Tests/Rule09.Tests.csproj" />
+  </Folder>
+</Solution>
